@@ -16,12 +16,6 @@
 
 
 
-
-
-
-
-
-
 // strategy interface for walkableRobot
 
 interface WalkableRobot{
